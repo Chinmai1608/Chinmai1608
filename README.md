@@ -6,7 +6,7 @@
 
 https://public.tableau.com/views/IPLDataAnalysisMentorness/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 <div class='tableauPlaceholder' id='viz1721238997515' style='position: relative'>
- <noscript><a href='[#](
+ <noscript><a href='(
 https://public.tableau.com/views/IPLDataAnalysisMentorness/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)'><img alt='IPL DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/e68a482a-9854-4867-93f2-9ee28a60fc7c' style='border: none' /></a></noscript>
  <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;IPLDataAnalysisMentorness&#47;Dashboard1?:language=en-US&amp;:embed=true&amp;:sid=&amp;:redirect=auth' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IP&#47;IPLDataAnalysisMentorness&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>               
  <script type='text/javascript'>                    
