@@ -19,7 +19,6 @@
 - 📫 How to reach me: Chinmainimgade1608@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I even code in dreams no matter that is useless..😂
-![Dashboard 1(1)](https://github.com/user-attachments/assets/e68a482a-9854-4867-93f2-9ee28a60fc7c)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chinmai1608)
 
