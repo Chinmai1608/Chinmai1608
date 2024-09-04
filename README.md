@@ -1,14 +1,6 @@
-### Hi there 👋 I'm Chinmaii...the_cody!!
- 
+## Hello 👋, Myself Chinmai..
 
-![image](https://user-images.githubusercontent.com/107248135/214213959-50678acd-5b73-4c05-ad04-1adac4f80e3f.png)
-
-
-<div class='tableauPlaceholder' id='viz1721238997515' style='position: relative'>
- <noscript><a href='https://public.tableau.com/views/IPLDataAnalysisMentorness/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><img alt='IPL DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/e68a482a-9854-4867-93f2-9ee28a60fc7c' style='border: none' /></a></noscript>
- <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;IPLDataAnalysisMentorness&#47;Dashboard1?:language=en-US&amp;:embed=true&amp;:sid=&amp;:redirect=auth' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IP&#47;IPLDataAnalysisMentorness&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>               
-
-
+![me](https://github.com/Chinmai1608/Chinmai1608/blob/main/isometric-research-of-statistical-data-and-analytics.gif)
 
  ![](https://komarev.com/ghpvc/?username=Chinmai1608)
 - 🔭 I’m currently working on mHealth website
@@ -23,3 +15,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chinmai1608)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Chinmai1608)
+
+- My work
+- 
+<noscript><a href='https://public.tableau.com/views/AttritionAnalysisGreenDestinationsUnifiedMentor/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><img alt='DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/dc370ff7-a852-49fe-a1be-ca9089868508' style='border: none' /></a></noscript>
+
