@@ -1,6 +1,9 @@
 ## Hello 👋, Myself Chinmai..
+<div>
+ 
+ ![me](https://github.com/Chinmai1608/Chinmai1608/blob/main/isometric-research-of-statistical-data-and-analytics.gif)
 
-![me](https://github.com/Chinmai1608/Chinmai1608/blob/main/isometric-research-of-statistical-data-and-analytics.gif)
+</div>
 
  ![](https://komarev.com/ghpvc/?username=Chinmai1608)
 - 🔭 I’m currently working on mHealth website
